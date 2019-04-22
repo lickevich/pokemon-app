@@ -1,0 +1,18 @@
+.card__pic {
+    margin: 10px 20px 10px 0;
+    width: 240px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.card__pic:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+  }
+
+.card__pic-img {
+    height: 100%;
+    width: 100%;
+    background: url(https://pokemontcg.io/static/media/card-back-small.ce3a314e.png) transparent no-repeat 50%;
+    background-size: 95%;
+}

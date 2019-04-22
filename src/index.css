@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    background-color: #fff;
+}
+
+body {
+    font-family: "Segoe UI","Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    color: #4a4a4a;
+    font-weight: normal;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+  }
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #4a4a4a;
+    text-decoration: none;
+}

@@ -1,0 +1,9 @@
+.sets-list {
+    margin: 0;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+}
